@@ -477,3 +477,9 @@ tree.getPathFromRootToLeaf(tree.getRoot());
   H  G  F  E  
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  
 注意:每pathLength++,就要对应一个pathLength- -;
+
+
+/////////////////////////////////////////////////
+
+By the way, 归并排序
+http://blog.csdn.net/apei830/article/details/6591632
